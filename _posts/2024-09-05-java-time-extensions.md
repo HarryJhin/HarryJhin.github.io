@@ -1,9 +1,9 @@
 ---
-permalink: /java-time-extensions/
+permalink: /projects/java-time-extensions/
 title: "프로젝트 : java-time-extensions"
 date: 2024-09-05T09:00:00+09:00
 categories:
-  - blog
+  - projects
 tags:
   - kotlin
   - library
