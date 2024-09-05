@@ -68,7 +68,7 @@ author:
   location: "경기도 하남시"
   links:
     - label: "Medium"
-      icon: "fas fa-fw fa-medium"
+      icon: "fab fa-fw fa-medium"
       url: "https://joojinhyun.medium.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -80,7 +80,7 @@ author:
 footer:
   links:
     - label: "Medium"
-      icon: "fas fa-fw fa-medium"
+      icon: "fab fa-fw fa-medium"
       url: "https://joojinhyun.medium.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -101,6 +101,10 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav:
+          - main
+          - posts
   # _pages
   - scope:
       path: "_pages"
