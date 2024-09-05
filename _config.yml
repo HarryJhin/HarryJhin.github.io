@@ -64,7 +64,7 @@ plugins:
 author:
   name   : "주진현"
   avatar : "/assets/images/bio-photo.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "경력 2년차 백엔드 및 안드로이드 앱 개발자입니다."
   location: "경기도 하남시"
   links:
     - label: "Medium"
